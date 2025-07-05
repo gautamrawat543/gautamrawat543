@@ -7,7 +7,7 @@ A passionate Java Spring Boot developer and programming enthusiast from India �
 - 🌱 I’m currently learning **Java Spring Boot**, **Flutter**, and **DSA**
 - 💬 Ask me about **Java**, **Spring**, **Backend Development**, and **Clean Code**
 - 🧠 Currently building: `KrishiConnect` and `Roadmap.AI`
-- 📫 How to reach me: [gautam@example.com](mailto:gautam@example.com)
+- 📫 How to reach me: [gautam@example.com](www.linkedin.com/in/gautam-rawat-84a97b283)
 - ⚡ Fun fact: I treat bugs as puzzles 🧩
 
 ---
@@ -37,4 +37,4 @@ A passionate Java Spring Boot developer and programming enthusiast from India �
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gautam-rawat-84a97b283)
