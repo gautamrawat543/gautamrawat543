@@ -37,4 +37,4 @@ A passionate Java Spring Boot developer and programming enthusiast from India ðŸ
 
 ## ðŸ“« Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gautam-rawat-84a97b283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gautam-rawat-84a97b283)
